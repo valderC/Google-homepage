@@ -1,0 +1,15 @@
+/*css page*/
+
+body {
+  background-color: grey;
+}
+
+img {
+  border: 1px solid red;
+  padding-top: 200px;
+  padding-left: 200px;
+}
+form {
+  border: 1px solid green;
+  padding-left: 270px;
+}
