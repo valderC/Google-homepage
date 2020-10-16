@@ -1,3 +1,1 @@
-first website
-testing
-first website using html/css
+first website ever created using barebones html/css along with proper professional format for creating a website project
