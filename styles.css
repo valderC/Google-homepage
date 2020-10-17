@@ -4,31 +4,15 @@ body {
   background-color: grey;
 }
 
-/*
-img {
- position: absolute;
- border: 1px solid red;
- top: 50%;
- left: 50%;
- transform: translate(-50%, -50%);
-}
-*/
 .aligncenter {
   text-align: center;
   border: 1px solid red;
 }
 
-/*
-form {
-  position: absolute;
-  border: 1px solid green;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-*/
  .centerform {
    text-align: center;
    border: 1px solid green;
 
  }
+
+ 
