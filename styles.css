@@ -1,5 +1,9 @@
 /*css page*/
 
+body, ul, li, a, footer {
+  font-family: arial, sans-serif;
+}
+
 body {
   background-color: white;
 }
@@ -50,9 +54,21 @@ a:hover {
    top: 210px;
  }
 
+ .button1:hover {
+   background-color: grey;
+ }
+
  footer {
-   position: fixed;
+   position: absolute;
    bottom: 0;
-   width: 100%;
-   background-color: gray;
+   left: 0;
+   right:0;
+   min-width: 400px;
+   border-top: 1px solid #e4e4e4;
+   height: 40px;
+   background-color: #f2f2f2;
+   align-items: center;
+   font-size: 10pt;
+   padding-left: 27px;
+   margin: 0 !important;
  }
